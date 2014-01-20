@@ -1,4 +1,5 @@
 /* none */
+<<<<<<< HEAD
 var book = {
 	_year: 2004,
 	edition: 1
@@ -18,3 +19,6 @@ object.defineProperty(book, "year", {
 
 book.year=2005;
 alert(book.edition);
+=======
+alert(test);
+>>>>>>> 49d5f1c95cb5bae1fbcaffb21a681106c7869dfb
